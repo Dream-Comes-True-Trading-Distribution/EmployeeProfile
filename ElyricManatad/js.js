@@ -39,9 +39,9 @@ setInterval(() => {
 
 
 // PERSONAL DETAILS
-const fullName = "ELYRIC MANATAD";
+const fullName = "ELYRIC A. MANATAD";
 const firstTitle = "Software&nbsp;Developer&nbsp;";
-const secondTitle = "at&nbsp;Sun&nbsp;Asterisk";
+const secondTitle = "at&nbsp;Sun&nbsp;Asterisk&nbsp;PH";
 const birthdate = "May 15, 1996";
 const country = "Philippines";
 const address = "Looc, Mandaue City";
